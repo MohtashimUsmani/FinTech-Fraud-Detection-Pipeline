@@ -34,7 +34,7 @@ A model is only as valuable as its business impact. The predictions from the ML 
 ---
 
 ## 📁 Repository Structure
-\`\`\`text
+text
 ├── 1_SQL_Data_Engineering/
 │   ├── SQL_Data_Analyst_Project.pdf     # SQL Queries and AML Logic
 ├── 2_Machine_Learning/
@@ -46,7 +46,7 @@ A model is only as valuable as its business impact. The predictions from the ML 
 ├── Data/
 │   ├── fraud_predictions_for_powerbi.csv # Processed dataset with AI predictions
 └── README.md
-\`\`\`
+
 
 ## 💡 How to Run the Python Model
 1. Clone this repository.
